@@ -22,6 +22,6 @@ Instalación:
   
 Uso:
 
--Abre el archivo index.html en tu navegador web para ver la página de inicio de sesión.
+-Abre el archivo index.html en tu navegador web para ver la página.
 
 -Personaliza los archivos HTML y CSS según tus necesidades.
